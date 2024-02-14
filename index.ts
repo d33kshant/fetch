@@ -1,1 +1,3 @@
-console.log("Hello, World!");
+import { Command } from 'commander'
+
+const program = new Command()
